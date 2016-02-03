@@ -1,0 +1,90 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title>jQuery UI Button - Default functionality</title>
+
+  <link rel="stylesheet" href="./jquery-ui-1.11.0/jquery-ui.css">
+
+  <script src="./jquery-ui-1.11.0/jquery-1.11.0.min.js"></script>
+
+  <script src="./jquery-ui-1.11.0/jquery-ui.js"></script>
+
+  <script>
+
+  $(function() {
+
+    $( "button:first" ).button({
+
+      icons: {
+
+        primary: "ui-icon-locked"
+
+      },
+
+      text: false
+
+    }).next().button({
+
+      icons: {
+
+        primary: "ui-icon-locked"
+
+      }
+
+    }).next().button({
+
+      icons: {
+
+        primary: "ui-icon-gear",
+
+        secondary: "ui-icon-triangle-1-s"
+
+      }
+
+    }).next().button({
+
+      icons: {
+
+        primary: "ui-icon-gear",
+
+        secondary: "ui-icon-triangle-1-s"
+
+      },
+
+      text: false
+
+    });
+
+  });
+
+
+
+  </script>
+
+</head>
+<body>
+
+ 
+
+<button>Button with icon only</button>
+
+<button>Button with icon on the left</button>
+
+<button>Button with two icons</button>
+
+<button>Button with two icons and no text</button>
+
+ 
+
+ 
+
+</body>
+
+</html>
+
+
