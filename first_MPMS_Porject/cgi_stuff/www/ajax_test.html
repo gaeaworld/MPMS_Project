@@ -1,0 +1,69 @@
+<html>
+
+<!-- 先指定 prototype.js 的位置，rico.js 會使用到這個 script -->
+<script src="scripts/prototype.js"></script>
+<!-- 再指定 rico.js 的位置 -->
+<script src="scripts/rico.js"></script>
+
+<script language="javascript">
+var loadUpdater;	// response 物件
+var timerID = 0;
+var LoadUpdater = Class.create();
+LoadUpdater.attributes = ["load"];
+LoadUpdater.prototype = {
+	initialize: function() {
+	},
+
+	// This function will be invoked by AJAX engine
+	ajaxUpdate: function(ajaxResponse) {
+		// 從 Response 回來的 XML 文件中找出含 CPU 的欄位。
+	    	var cpu = ajaxResponse.getElementsByTagName('cpu')[0];
+
+		// 從本頁 HTML document 找到要更新資料的位置。
+		var myInput = document.body.getElementsByTagName('input')[0];
+
+		// 將最新的 server loading 寫入指定的 input 欄位。
+		myInput.setAttribute('value', cpu.getAttribute('load') );
+	}
+
+};
+
+function initPage()
+{
+	//  實做一個 LoadUpdater 物件。
+	loadUpdater = new LoadUpdater(); 
+
+	//   註冊 Request 的 cgi 位置。
+	ajaxEngine.registerRequest ('loadQuery', 'http://140.123.101.14/~sys89/cgi-bin/server_loading.cgi');
+
+	// 註冊 Response 的物件為 loadUpdater。
+	ajaxEngine.registerAjaxObject('loadUpdater', loadUpdater);
+
+	// 先做第一次的 query。
+	queryLoad();
+
+	// 設定一個 Timer，讓網頁在 2 秒後自動再去 query 新的資料。
+	timerID = setTimeout ("updateTimer()", 2000);
+}
+function queryLoad()
+{
+	// 發出 request 給伺服。
+	ajaxEngine.sendRequest('loadQuery', 'cpu=0');
+}
+
+function updateTimer()
+{
+	queryLoad();
+
+	// 每兩秒發一次 request 。
+	timerID = setTimeout("updateTimer()", 2000);	
+}
+
+</script>
+<title>AJAX Demo: Server Load</title>
+<body bgcolor=white onload="initPage()">
+	<h1>Server CPU Loading Watch</h1>
+CPU loading: <input name="dd" value="">
+</body>
+</html>
+
