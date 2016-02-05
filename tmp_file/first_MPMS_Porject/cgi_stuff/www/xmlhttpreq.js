@@ -44,7 +44,7 @@ function sender()
     
 
         //test.cgi
-        xhr.open("GET", "/cgi-bin/test.cgi?cur_time=" + new Date().getTime());
+        xhr.open("GET", "/cgi-bin/mpms.cgi?cur_time=" + new Date().getTime());
     
         xhr.send(null);
     }
@@ -74,7 +74,8 @@ function callbackFunction()
 
             if(returnValue != null && returnValue.length > 0)
             {
-                document.getElementById("current_time").innerHTML = returnValue;
+                //document.getElementById("current_time").innerHTML = returnValue;
+                document.getElementById("current_people").innerHTML = returnValue;
             }
             else
             {
