@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"On",
+				"On"
+			],
+			[
+				"bt",
+				"bt_option1"
+			],
+			[
+				"sel",
+				"selectObj"
+			],
+			[
+				"CD",
+				"CD"
+			],
+			[
+				"Vi",
+				"VirtualMedia"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MPMS/cgi/PIR_sensor.py",
+			"settings":
+			{
+				"buffer_size": 2348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MPMS/cgi/mpms.c",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tmp_file/first_MPMS_Porject/cgi_stuff/cgi_protice/test.c",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 200 files for \"xmlhttpreq.js\"\n\n/home/james/my_file/MPMS_Project/MPMS_Project/MPMS/www/test.html:\n    3    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"/>\n    4    <title>C+CGI+Ajax</title>\n    5:   <script language=\"JavaScript\" src=\"xmlhttpreq.js\"></script>\n    6   </head>\n    7   <body onload=\"updateTimer()\">\n\n/home/james/my_file/MPMS_Project/MPMS_Project/tmp_file/first_MPMS_Porject/cgi_stuff/www/test.html:\n    3    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"/>\n    4    <title>C+CGI+Ajax</title>\n    5:   <script language=\"JavaScript\" src=\"xmlhttpreq.js\"></script>\n    6   </head>\n    7   <body onload=\"updateTimer()\">\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 705,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "tmp_file/first_MPMS_Porject/cgi_stuff/www/test.html",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tmp_file/first_MPMS_Porject/cgi_stuff/www/xmlhttpreq.js",
+			"settings":
+			{
+				"buffer_size": 1547,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/james/my_file/MPMS_Project/MPMS_Project/tmp_file/first_MPMS_Porject/cgi_stuff/www/test_people.html",
+		"/home/james/my_file/MPMS_Project/MPMS_Project/tmp_file/first_MPMS_Porject/cgi_stuff/cgi_protice/test_people.c",
+		"/home/james/my_file/MPMS_Project/MPMS_Project/tmp_file/first_MPMS_Porject/cgi_stuff/cgi_protice/mult.c",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/man_ikvm_html5_bootstrap.www",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/man_ikvm_html5.www",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/Utils/AOCTask.c",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/OpenWSMAN/build_wsman/openwsman/lib/pkgconfig/openwsman-server.pc",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jquery-ui.min.js",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jstree/jquery.js",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/7-for_merge_code_and/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/css/jquery-ui.min.css",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/English/lang_str.js",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/sys_info.www",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/IPMI/IPMI_CMDS/OEM/Host/AST2400/Board/AST2400_EVB/70SubCmd.c",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO_JBOD/sys_info.www",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/Japanese/lang_str.js",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/jquery_power_action_bak/9-bootstrap_css_no_conflict/topmenu.www",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/IPMI/IPMI_CMDS/OEM/Host/AST2400/Board/AST2400_EVB/68SubCmd.c",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/IPMI/SENSOR_DRV/I2C/RiserCard.c",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/yui/build/menu/menu.js",
+		"/home/james/Project/mission/2016/0115-K1SPi-T_bios_dmi_gone/x10/IPMI/IPMI_CMDS/OEM/Host/AST2400/Board/AST2400_EVB/inc/OEMCmd.h",
+		"/home/james/Project/mission/2016/0115-K1SPi-T_bios_dmi_gone/x10/IPMI/Platform/platform_X11SSD_F.c",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/css/bootstrap.css",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/css/bootstrap.min.css",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/5-for_jquery_plus_power_action/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/topmenu.www",
+		"/home/james/Project/mission/2015/1111-PowerBtn_change_select_menu_part2/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/login.www",
+		"/home/james/Project/mission/2015/0921-PowerBtn_change_select_menu/t2_version/x10/Web_Server/OS/Linux/inc/ipmi.h",
+		"/home/james/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+		"/home/james/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/james/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/james/Project/mission/2015/0921-PowerBtn_change_select_menu/t2_version/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/sys_info.www",
+		"/home/james/Project/mission/2015/0921-PowerBtn_change_select_menu/t2_version/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/English/lang_str.js",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/SDRFile/X11SSD_F.txt",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/SENSOR_DRV/On_Chip/ast2400_fan.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/SDRFile/X11SSH_F.txt",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSL_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSA_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSH_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSE_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSM_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/SDRFile/X11SSM_F.txt",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/SDRFile/X11SSE_F.txt",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_K1SPI.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SAE_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SBA_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSZ.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSL_CF.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_project/x10/IPMI/Platform/platform_X11SSH_CTF.c",
+		"/home/james/.config/sublime-text-2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/DRIVERS/NIC/mii_reg.h",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/DRIVERS/NIC/ftgmac100_26.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/IPMI/Platform/platform_X11SSL_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/IPMI/Platform/platform_common.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/IPMI/Platform/platform_X11SBA_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/IPMI/Platform/platform_X11SSA_F.c",
+		"/home/james/Project/mission/2015/0901-X11SSD_gpio_table/x10/IPMI/Platform/platform_X11SAE_F.c",
+		"/home/james/Project/mission/2015/0921-PowerBtn_change_select_menu/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/vmedia.www",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/help/help_servh_sensor.www",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/English/lang_str.js",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/Japanese/lang_str.js",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/SChinese/lang_str.js",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/help/help_sys_smbios.www",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/help/help_config_mouse.www",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/help/help_config_network.www",
+		"/home/james/Project/mission/2015/0910-Help_Pages_Improvements/good_methods_mars/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/help/help_sys_smbios.www",
+		"/home/james/Project/mission/2015/0910-redfish_icon/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jquery-ui.min.js",
+		"/home/james/Project/mission/2015/0910-redfish_icon/x10/Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/bootstrap.min.js",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/edm/edm_model.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/edm/edm_entity_container.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/systems/systemcollection.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/managercollection.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/inc/managers/vm1/Floppy1/Floppy1.h",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/inc/managers/logservices/log1/actions/logservice_reset.h",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/vm1/CD1/cd1.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/vm1/CD1/CD1.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/inc/managers/vm1/CD1/CD1.h",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/inc/managers/vm1/CD1/CD1",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/logservices/log1/logservices.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/networkprotocol/networkprotocol.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/ethernetInterfaces/ethernetInterfacecollection.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/ethernetInterfaces/ethernetInterface.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/logservices/log1/entries/logentrycollection.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/logservices/log1/entries/logentry.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/vm1/Floopy1/Floopy1.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/TFTP/bin/tftp_service.sh",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish_entry.h",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/JavaAP/KVM/Makefile",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/inc/vm1/virtualmediacollection.h",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/redfish/src/redfish/managers/logservices/log1/actions/logservice_reset.cpp",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/IPMI/rm_utilities/inc/UtilOOB.h",
+		"/home/james/Project/mission/2015/0827-redfish_add_VM_item/x10/IPMI/rm_utilities/UtilBiosUpdate.c",
+		"/home/james/Project/test/t2/x10/IPMI/IPMI/Ipmi.c",
+		"/home/james/Project/test/t2/x10/IPMI/IPMI/IPMICmdTbl.c",
+		"/home/james/Project/test/t2/x10/IPMI/IPMI/inc/IPMI.h",
+		"/home/james/Project/test/t1/x11/IPMI/IPMI/Ipmi.c"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*",
+			"./",
+			"*",
+			"topmenu.www",
+			"*",
+			"lang_str.js",
+			"floppy.cpp",
+			"cd1.cpp",
+			"*",
+			"cd1.cpp",
+			"*",
+			"redfish_entry.cpp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current_time",
+			"xmlhttpreq.js",
+			"buttonPin",
+			"ShowHostAndUser",
+			"PageInit",
+			"PageInit2",
+			"ajax",
+			"img_sys_health_lamp",
+			"enablesmash",
+			"0881",
+			"button",
+			".ui-widget-header",
+			".ui-widget-header{",
+			".ui-widget-header {",
+			".ui-widget-header",
+			".ui-widget-header {",
+			"ui-widget-header",
+			"font-family",
+			".ui-widget-header",
+			".ui-widget-header .ui-state-error",
+			"background-image:",
+			"background-image: url",
+			".ui-widget-content .ui-icon",
+			".ui-widget-content",
+			".ui-widget-content .ui-icon",
+			"ui-bg_glass_100_f6f6f6_1x400.png",
+			"img_sys_health_lamp",
+			"images",
+			"font",
+			"ui-icons_888888_256x240",
+			"../",
+			"jquery-ui",
+			"alert",
+			"JAMES_devlop",
+			"james",
+			"LANG_CHASSIS_CHECK1",
+			"$jq",
+			"c3",
+			"ReadGPIOCmd",
+			"MainFrame",
+			"reload",
+			"do_refresh",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"RefreshSystemHealthResquest",
+			"setTimeout",
+			"PowerActionHandler",
+			"pollCallback1",
+			"GetPwrStatusHandler",
+			"GetPwrStatus",
+			"GetSystemInfo",
+			"GetPwrStatus",
+			"GetPwrStatusHandler",
+			"pollCallback1",
+			"PowerActionHandler",
+			"pollCallback1",
+			"topmenu_GetPwrStatusHandler",
+			"GetPwrStatus",
+			"RefreshSystemHealthResquest",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"action",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"msgCableChkBMC",
+			"isFirstLoad",
+			"PageInit",
+			"isFirstLoad",
+			"state_to_expect",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"pollCallback1",
+			"PowerActionHandler",
+			"pollCallback1",
+			"topmenu_GetPwrStatusHandler",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"tooltip",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"RefreshSystemHealth",
+			"tooltip",
+			"jquery_dialog_btn",
+			"top_pon",
+			"jquery_dialog_btn",
+			"topmenu_GetPwrStatusHandler",
+			"pollCallback1",
+			"topmenu_GetPwrStatusHandler",
+			"GetPwrStatus",
+			"ptn_status_reload",
+			"topmenu_GetPwrStatusHandler",
+			"jquery_dialog_btn",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"jquery_dialog_btn",
+			"CHECK_RISER_CFG_INIT",
+			"3A",
+			"jquery_dialog_btn",
+			"jquery_dialog_btn2",
+			"Power",
+			"icon.red",
+			"icon",
+			"Color",
+			"jquery_dialog_btn",
+			"dialog",
+			"LANG_SUPPORT_REDFISH_LABEL",
+			"bootstrap-iso",
+			"img_sys_health_lamp",
+			"PowerActionHandler",
+			"GetPwrStatus",
+			"pollCallback1",
+			"JAMES_devlop",
+			"pollCallback1",
+			"GetPwrStatus",
+			"topmenu_GetPwrStatusHandler",
+			"Redfish_TOOLTIP",
+			"GetPwrStatus",
+			"RefreshSystemHealthResquest",
+			"dialog",
+			"jquery_dialog_btn",
+			"tmp_health_flag",
+			"img_sys_health_icon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RIP_Pin",
+			"smc-bootstrap-iso",
+			"topmenu_GetPwrStatusHandler",
+			"vmType_collection",
+			"virtualmediatypes",
+			"mediatypes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MPMS/cgi/PIR_sensor.py",
+					"settings":
+					{
+						"buffer_size": 2348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "MPMS/cgi/mpms.c",
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tmp_file/first_MPMS_Porject/cgi_stuff/cgi_protice/test.c",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										264,
+										277
+									],
+									[
+										600,
+										613
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tmp_file/first_MPMS_Porject/cgi_stuff/www/test.html",
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tmp_file/first_MPMS_Porject/cgi_stuff/www/xmlhttpreq.js",
+					"settings":
+					{
+						"buffer_size": 1547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"topmenu.www",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/topmenu.www"
+			],
+			[
+				"enablesmas",
+				"OpenWSMAN/build_wsman/openwsman/lib/pkgconfig/openwsman-server.pc"
+			],
+			[
+				"man_ikvm_html",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/man_ikvm_html5_bootstrap.www"
+			],
+			[
+				"man_ikvm_html5",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/man_ikvm_html5.www"
+			],
+			[
+				"jquery-ui.js",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jquery-ui.min.js"
+			],
+			[
+				"jquery.js",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jstree/jquery.js"
+			],
+			[
+				"jquery-ui.css",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/css/jquery-ui.css"
+			],
+			[
+				"70",
+				"IPMI/IPMI_CMDS/OEM/Host/AST2400/Board/AST2400_EVB/70SubCmd.c"
+			],
+			[
+				"lang_str.js",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/lang/English/lang_str.js"
+			],
+			[
+				"sys_info",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/sys_info.www"
+			],
+			[
+				"sysinfo.",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO_JBOD/sys_info.www"
+			],
+			[
+				"68",
+				"IPMI/IPMI_CMDS/OEM/Host/AST2400/Board/AST2400_EVB/68SubCmd.c"
+			],
+			[
+				"jquery-ui.min.js",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jquery-ui.min.js"
+			],
+			[
+				"menu.js",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/yui/build/menu/menu.js"
+			],
+			[
+				"aoctask.c",
+				"Utils/AOCTask.c"
+			],
+			[
+				"oobcmd.c",
+				"IPMI/IPMI_CMDS/OEM/Host/AST2400/Board/AST2400_EVB/OOBCmd.c"
+			],
+			[
+				"bootstrap.min.css",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/css/bootstrap.min.css"
+			],
+			[
+				"bootstrap.min.js",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/bootstrap.min.js"
+			],
+			[
+				"jquery-1.11.0.min",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/js/jquery-1.11.0.min.js"
+			],
+			[
+				"servh_pcissd.www",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/servh_pciessd.www"
+			],
+			[
+				"login.www",
+				"Web_Server/OS/Linux/Web_Style/SUPERMICRO/page/login.www"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}
